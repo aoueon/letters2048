@@ -1,5 +1,5 @@
 const appProfile = {
-  name: "Letters 2048",
+  name: "Merge ABC",
   summary: "Reach the highest letter",
   tagline: "Merge letter tiles from A to Z. How far can you go?",
   icon: "assets/icon.png",
@@ -8,7 +8,7 @@ const appProfile = {
   appStoreBadge: "assets/download.svg",
   supportEmail: "rao@pluriform.ro",
   privacyOwnerName: "Raoul Albu-Simionas",
-  companyName: "Letters 2048 Studio",
+  companyName: "Merge ABC",
   responseTime: "Most support messages are answered within 3 business days.",
   responseWindow: "Within 3 business days",
   lastUpdated: "March 19, 2026",
@@ -35,7 +35,7 @@ window.APP_DATA = {
   screenshots: [
     // {
     //   src: "assets/screenshot-1.svg",
-    //   alt: "Letters 2048 gameplay board"
+    //   alt: "Merge ABC gameplay board"
     // }
   ],
   home: {
@@ -153,19 +153,19 @@ window.APP_DATA = {
   },
   privacy: {
     intro:
-      "This Privacy Policy explains how Letters 2048 handles information when you use the app. Letters 2048 does not require a developer-managed account or login to play. The app uses Apple Game Center for leaderboards and achievements, Apple services for in-app purchases, and Google AdMob to show ads in the free version.",
+      "This Privacy Policy explains how Merge ABC handles information when you use the app. Merge ABC does not require a developer-managed account or login to play. The app uses Apple Game Center for leaderboards and achievements, Apple services for in-app purchases, and Google AdMob to show ads in the free version.",
     sections: [
       {
         title: "Owner",
         paragraphs: [
-          `The owner and operator of Letters 2048 is ${appProfile.privacyOwnerName}.`,
+          `The owner and operator of Merge ABC is ${appProfile.privacyOwnerName}.`,
           `For support or privacy questions, contact ${appProfile.supportEmail}.`
         ]
       },
       {
         title: "Information We Collect",
         paragraphs: [
-          "Letters 2048 does not require you to create an account or provide personal information directly to play.",
+          "Merge ABC does not require you to create an account or provide personal information directly to play.",
           "If you contact support by email, we receive the information you choose to include in your message.",
           "We may also receive limited information from Apple and third-party service providers when needed to operate Game Center features, process purchases, show ads, restore purchases, respond to support requests, or understand app stability."
         ]
@@ -180,7 +180,7 @@ window.APP_DATA = {
       {
         title: "Advertising",
         paragraphs: [
-          "The free version of Letters 2048 shows a banner ad during gameplay.",
+          "The free version of Merge ABC shows a banner ad during gameplay.",
           "When a free user uses Undo, the app may show one or more full-screen ads before granting the undo.",
           "Users who purchase the one-time Unlimited 2048 package do not receive ads in the app.",
           "Google AdMob and its partners may collect or process information such as device identifiers, IP address, approximate location, diagnostics, and ad interaction data to provide, measure, and improve ads, subject to applicable law, device settings, and any consent choices presented to the user."
@@ -229,7 +229,7 @@ window.APP_DATA = {
       {
         title: "Children's Privacy",
         paragraphs: [
-          "We do not knowingly collect personal information directly from children through Letters 2048 except where a child voluntarily sends information by email.",
+          "We do not knowingly collect personal information directly from children through Merge ABC except where a child voluntarily sends information by email.",
           "If you believe a child has sent personal information through support or privacy email, contact us and we will take reasonable steps to delete it where appropriate and legally permitted."
         ]
       },
